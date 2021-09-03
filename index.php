@@ -1,2 +1,2 @@
 <?php
-var_dump('test catlight');
+var_dump('test catlight status');
